@@ -2,8 +2,8 @@ Meeeewwwgenics!
 
 Items, stars are optional:
 Abilities*
-Items
-- Side Quest Items
+Items 
+Side Quest Items
 Classes
 Chapters
 
